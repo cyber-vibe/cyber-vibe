@@ -102,15 +102,3 @@ $ status
 I don’t “know” everything.
 I learn fast, adapt faster, and build nonstop.
 Tools change. Fundamentals stay.
-
-⚠️ IMPORTANT (READ THIS)
-
-GitHub viewers know:
-
-You don’t need to master every language
-
-This shows range, curiosity, and ambition
-
-Recruiters LOVE stacked skill matrices
-
-This is aura, not lying.
