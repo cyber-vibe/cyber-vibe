@@ -52,7 +52,7 @@
 ## 🧬 Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://github.com/cyber-vibe/cyber-vibe/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/cyber-vibe/cyber-vibe/blob/main/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
