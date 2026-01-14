@@ -21,7 +21,7 @@
 ## ⚡ Animated Skill Matrix
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,react,nextjs,nodejs,git,github,vscode,linux,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,html,css,python,react,nextjs,nodejs,git,github,vscode,linux,vercel&theme=dark" />
 </p>
 
 ---
