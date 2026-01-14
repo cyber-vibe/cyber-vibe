@@ -25,11 +25,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-streak-stats.herokuapp.com/?user=avi&theme=dark&hide_border=true&ring=38BDF8&fire=6366F1&currStreakLabel=38BDF8" />
+  <img src="https://readme-streak-stats.herokuapp.com/?user=cyber-vibe&theme=dark&hide_border=true&ring=38BDF8&fire=6366F1&currStreakLabel=38BDF8" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/avi/avi/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/cyber-vibe/cyber-vibe/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
