@@ -59,7 +59,6 @@
 
 ## 💥 Terminal Vibes
 
-```bash
 $ whoami
 avi
 
