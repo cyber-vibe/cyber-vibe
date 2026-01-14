@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=PROFILE+VIEWS&color=38BDF8&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/your-username?label=FOLLOWERS&style=flat-square&color=6366F1" />
-  <img src="https://img.shields.io/github/stars/your-username?label=STARS&style=flat-square&color=0ea5e9" />
+  <img src="https://komarev.com/ghpvc/?username=cyber-vibe&label=PROFILE+VIEWS&color=38BDF8&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/cyber-vibe?label=FOLLOWERS&style=flat-square&color=6366F1" />
+  <img src="https://img.shields.io/github/stars/cyber-vibe?label=STARS&style=flat-square&color=0ea5e9" />
 </p>
 
 ---
 
 ## 🧠 Boot Sequence
 
-<img src="https://readme-github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=tokyonight" />
+<img src="https://readme-github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyber-vibe&theme=tokyonight" />
 
 ---
 
@@ -35,7 +35,7 @@
 ## 🧪 Live Build Feed
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-vibe&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -43,8 +43,8 @@
 ## 📊 Motion Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=transparent&hide_border=true&ring=38BDF8&fire=6366F1&currStreakLabel=38BDF8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cyber-vibe&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=cyber-vibe&theme=transparent&hide_border=true&ring=38BDF8&fire=6366F1&currStreakLabel=38BDF8" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ## 🧬 Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/cyber-vibe/cyber-vibe/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
