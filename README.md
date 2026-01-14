@@ -29,10 +29,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/cyber-vibe/cyber-vibe/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&width=700&text=Modules+Online&fontSize=22&color=0:111827,100:1f2937" />
 </p>
 
