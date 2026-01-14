@@ -18,27 +18,6 @@
 
 ---
 
-## 🧠 Boot Sequence
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=22&color=38BDF8&width=700&lines=[SYSTEM]+Booting...;[SYSTEM]+Loading Modules...;[SYSTEM]+Initializing AI Core...;[SYSTEM]+Decrypting Profile...;[SYSTEM]+Welcome+Cyber-Vibe!" />
-</p>
-
-<p align="center">
-  <img src="https://readme-streak-stats.herokuapp.com/?user=cyber-vibe&theme=dark&hide_border=true&ring=38BDF8&fire=6366F1&currStreakLabel=38BDF8" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/cyber-vibe/cyber-vibe/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&width=700&text=Modules+Online&fontSize=22&color=0:1
-
-
-
----
-
 ## ⚡ Animated Skill Matrix
 
 <p align="center">
