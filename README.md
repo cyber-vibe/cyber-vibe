@@ -1,4 +1,4 @@
-<!-- ===================================================== -->
+v<!-- ===================================================== -->
 <!--        AVI — ULTRA ANIMATED GITHUB README             -->
 <!-- ===================================================== -->
 
@@ -33,15 +33,6 @@
 </p>
 
 ---
-
-## 📊 Motion Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=cyber-vibe&theme=transparent&hide_border=true&ring=38BDF8&fire=6366F1" />
-</p>
-
----
-
 ## 🧬 Contribution Snake (Animated)
 
 <p align="center">
