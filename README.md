@@ -59,9 +59,9 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=F59E0B&text_color=C9D1D9&ring_color=F59E0B" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=cyber-vibe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=F59E0B&text_color=C9D1D9&ring_color=F59E0B" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-vibe&layout=compact&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9" />
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=C9D1D9&dates=8B949E" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-vibe&hide_border=true&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=C9D1D9&line=F59E0B&point=FFFFFF&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-vibe&bg_color=0D1117&color=C9D1D9&line=F59E0B&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -90,9 +90,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyber-vibe/cyber-vibe/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyber-vibe/cyber-vibe/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/cyber-vibe/cyber-vibe/output/github-snake.svg">
 </picture>
 
 </div>
@@ -141,7 +141,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=F59E0B&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=cyber-vibe&style=for-the-badge&color=F59E0B&label=PROFILE+VIEWS" />
 
 </div>
 
