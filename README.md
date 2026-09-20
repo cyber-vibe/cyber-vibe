@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:f59e0b,100:111111&height=180&section=header&text=CYBER-VIBE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=700&color=F59E0B&center=true&vCenter=true&width=600&lines=Software+Developer;Systems+%26+Low-Level+Explorer;Building+Things+From+Scratch;C+%7C+C%2B%2B+%7C+C%23+%7C+Java+%7C+Python" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:f59e0b,100:111111&height=180&section=header&text=CYBER-VIBE&fontSize=55&fontColor=ffffff&fontAlignY=35"/>
 
 <br>
 
@@ -67,10 +65,21 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyber-vibe/cyber-vibe/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyber-vibe/cyber-vibe/output/github-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/cyber-vibe/cyber-vibe/output/github-snake-dark.svg" width="95%">
-</picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/cyber-vibe/cyber-vibe/output/github-snake-dark.svg"
+  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/cyber-vibe/cyber-vibe/output/github-snake.svg"
+/>
+
+<img
+ alt="Contribution Snake"
+ src="https://raw.githubusercontent.com/cyber-vibe/cyber-vibe/output/github-snake-dark.svg"
+ width="95%"
+/> </picture>
 
 </div>
 
@@ -78,14 +87,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-vibe&custom_title=Contribution%20Flow&hide_border=true&bg_color=00000000&color=F59E0B&line=F59E0B&point=FFFFFF&area=true" width="98%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:f59e0b,100:111111&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:f59e0b,100:111111&height=100&section=footer"/>
 
 </div>
