@@ -42,26 +42,6 @@
 
 <div align="center">
 
-## 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=cyber-vibe&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-vibe&bg_color=0D1117&color=C9D1D9&line=F59E0B&point=FFFFFF&area=true&hide_border=true" width="98%" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🐍 Contribution Snake
 
 <picture>
