@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=cyber-vibe&hide_border=true&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=C9D1D9&dates=8B949E" width="65%" />
+<img src="https://streak-stats.demolab.com?user=cyber-vibe&hide_border=true&background=ffffff&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=333333&dates=666666&currStreakNum=111111&sideNums=111111" width="65%" />
 
 </div>
 
