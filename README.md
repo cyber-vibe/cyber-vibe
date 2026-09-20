@@ -24,8 +24,6 @@
 
 ## 📊 GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=cyber-vibe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=F59E0B&text_color=C9D1D9&ring_color=F59E0B" />
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-vibe&layout=compact&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=C9D1D9" />
 
 </div>
